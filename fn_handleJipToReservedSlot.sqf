@@ -1,0 +1,1 @@
+[true, false] call SBR_fnc_handleAnouncement;
